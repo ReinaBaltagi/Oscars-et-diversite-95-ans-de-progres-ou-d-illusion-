@@ -1,2 +1,10 @@
 # Oscars-et-diversit-95-ans-de-progr-s-ou-d-illusion-
-ce rapport, intitulé, « Oscars et diversité : 95 ans de progrès ou d’illusion ? » qui a pour finalité de diagnostiquer la diversité ethnique et de genre aux Oscars sur la période entre 1929 et 2025.
+Depuis 1929, les Oscars incarnent des inégalités systémiques de genre et d’ethnicité, avec un paysage longtemps dominé par les hommes blancs.1 Malgré les réformes récentes (comme les critères de diversité imposés en 2024) ainsi que quelques changements, la sous-représentation persiste.2 Toutefois, les questions suivantes peuvent être posées : les changements qui ont eu lieu présentent-ils suffisamment de diversité ? pourrions-nous parler d’évolution considérable dans la diversité de genre et d’éthnicité dans les Oscars ? Des moments clés comme Black Lives Matter, OscarsSoWhite et MeToo présentent-ils des tournants dans la représentation de la diversité des nominations et des victoires dans les Oscars ?
+
+Dans le but de répondre à toute ces questions, nous présentons ce rapport, intitulé, « Oscars et diversité : 95 ans de progrès ou d’illusion ? » qui a pour finalité de diagnostiquer la diversité ethnique et de genre aux Oscars sur la période entre 1929 et 2025, d’analyser l’évolution de cette diversité par rapport à des mouvements sociaux clés comme MeToo, OscarsSoWhite et autres, et finalement de recommander des actions concrètes à l’Académie pour plus d’équité.
+
+Le rapport sera donc structuré de la manière suivante, nous allons présenter en premier lieu notre database, comment nous l’avons eu, comment nous l’avons manipulé et quelles catégories nous allons aborder. Puis nous allons nous focaliser sur 4 catégories qui seront détaillées à savoir Leading role, supporting role, writers et directors, sans oublier la présentation du croisement de ces catégories ensemble. Nous allons par la suite présenter l’évolution de la diversité par rapport à des mouvements sociaux comme MeToo, OscarsSoWhite, Black Lives Matter et Stop Asian Hate. Finalement, nous allons conclure en présentant des recommandations à l’académie pour favoriser la diversité et l’équité.
+
+#La base de données a été construite à partir de deux bases de données trouvées sur Kaggle
+
+#Ce projet a été réalisé par : BALTAGI Reina, El ABSODI Salma et EL BAIDAK Houda
